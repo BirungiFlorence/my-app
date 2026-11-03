@@ -1,0 +1,6 @@
+{
+  "name": "Ironwood Prison Information Management System",
+  "description": "Comprehensive web-based prison information management system for inmate custody records, muster roll headcounts, housing block allocations, incident logging, and visitor tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
